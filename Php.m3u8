@@ -171,14 +171,12 @@ https://tinyurl.com/yanj982e
 #EXTINF:-1 tvg-id="AstroAura" tvg-name="Astro Aura HD" tvg-logo="http://tvmalaysia.cc:80/images/0b67d68665c92067221b479621db7952.png" group-title="ENTERTAINMENT",Astrox Aura 
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#http://urtv.cc:80/454781209544/431009674535/6713
-http://foctv.xyz:25510/Imrany/BB1732/28
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71145
 
 #EXTINF:-1 tvg-id="AstroRania" tvg-name="Astro Rania HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="ENTERTAINMENT",Astrox Rania 
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-#http://urtv.cc:80/454781209544/431009674535/6729
-http://foctv.xyz:25510/Imrany/BB1732/29
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71144
 
 #EXTINF:-1 tvg-id="704 group-title="ENTERTAINMENT" tvg-logo="http://mantul.biz.id:8888/images/cfc5d3828fa7578cf21ee5d144107cbc.png",Astrox Primetime
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -253,7 +251,7 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo = "https://www.useetv.com/assets/images/channel/logo_sgem_small.png", GEM 
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-https://tinyurl.com/2p92erk3
+https://group1-swiftservehd-1.dens.tv/h/h19/index.m3u8
 
 #EXTINF:-1 tvg-id="CHN" group-title="ENTERTAINMENT" ch-number="7189" tvg-logo="https://aqfad.netlify.app/logos/K-DAILY.png",K-DAILY TV
 http://asrazunifi.ddns.net:8080/live.m3u8
@@ -270,12 +268,10 @@ https://akamai.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #EXTINF:-1 tvg-id="K-Plus" tvg-name="K-Plus HD" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/q9knZG9/306-3060351-k-plus-k-plus-channel-logo.png",K Plus Drama
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#https://lnk.ec/kplus?shareext.ts 
-http://foctv.xyz:25510/Imrany/BB1732/140
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71111
 
 #EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBS World HD" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/1M1Y4L5/resize.png",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#http://ns561850.ip-54-39-158.net:8080/karen123/karen123/16363
 
 #EXTINF:-1 tvg-id="ONE" tvg-name="ONE HD" group-title="ENTERTAINMENT" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",ONE 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -286,12 +282,12 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 tvg-id="OhK" tvg-name="Oh!K HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="ENTERTAINMENT",OH!K
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://mu03ye.wanicelife.com:8880/YALM4262/360547880/71054
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71054
 
 #EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI HD" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/yd2K5zr/1600px-IQiyi-logo.png",QIYI
 #EXTVLCOPT:http-referrer=http://www.astro.com.my 
-#http://mu03ye.wanicelife.com:8880/YALM4262/360547880/710388
-http://foctv.xyz:25510/Imrany/BB1732/48
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71038
+#http://foctv.xyz:25510/Imrany/BB1732/48
 
 #EXTINF:-1 tvg-id="wakuwakujapan.id" group-title="ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/813_1920x1080_HTV.png",WakuWaku Japan 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -315,11 +311,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d
 
 #EXTINF:-1 tvg-id="473" tvg-name="Rock Entertainment" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/5kmtnvJ/Rock-Entertainment.png",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+#https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+http://group2-swiftservehd-1.dens.tv/h/h16/index.m3u8
 
 #EXTINF:-1 tvg-id="474" tvg-name="Rock Extreme" tvg-logo="https://i.ibb.co/KLSyc92/Rock-Extreme.png" group-title="ENTERTAINMENT",Rock Extreme
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+#https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+http://group2-swiftservehd-1.dens.tv/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-id="colorsInfinity.in" tvg-logo="https://i.ibb.co/16pPfYW/93-935448-infinity-png-download-infinity-tv-logo-png.png" group-title="ENTERTAINMENT",Colors Infinity
 #http://103.131.212.138:8000/play/a01c/index.m3u8
@@ -550,11 +548,11 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-#EXTINF:-1 tvg-id="StarMovies" group-title="MOVIES" tvg-logo="https://i.ibb.co/CVN0MSH/Star-Movies-1999.png",Star Movies  
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="IN069:Star Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN069StarMovies.png" group-title="MOVIES",Star Movies
 #http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
-http://foctv.xyz:25510/Imrany/BB1732/220
+#http://foctv.xyz:25510/Imrany/BB1732/220
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1896
 
 #EXTINF:-1 tvg-id="StarMovies" group-title="MOVIES" tvg-logo="https://i.ibb.co/hVhPGgc/SMSHD.png",Star Movies Select
 #http://foxx-tv.com:9600/sfZbg6D5hkCMMNG/VNoAa3qhtCm2t14/213315
@@ -587,18 +585,12 @@ http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34478?token=TURYAhZYEAwSVFZWXVMF
 #https://tinyurl.com/44jawbuw
 
 #EXTINF:-1 tvg-id="333" group-title="MOVIES" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png",Colors Cineplex
-#http://str24.l9574.com/735.stream/index.m3u8
-#http://208.86.19.21:80/735.stream/index.m3u8
-#http://103.161.2.142/hls/colorscineplex.m3u8
-http://mu03ye.wanicelife.com:8880/YALM4262/360547880/71125
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71125
 
 #EXTINF:-1 tvg-id="zeecinema.in" tvg-name="" tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="MOVIES",Box office Bollywood
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 
-#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="ZEE CINEMA UHD" tvg-logo="https://i.ibb.co/vBxX1Xn/Zeecinemahd2011.png" group-title="MOVIES",Zee Cinema
-http://foxx-tv.com:9600/sfZbg6D5hkCMMNG/VNoAa3qhtCm2t14/213320
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="MOVIES", Zee Cinema ALT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vBxX1Xn/Zeecinemahd2011.png" group-title="MOVIES", Zee Cinema 
 http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34514?token=TURYAhZYEAwSXQIBCVcCBwAHAVMADFEPBQpTBlAJBFQCUwJTBgAFVFVGTxBLF0AGVA9uD1IbCQUFBlQGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RQD1ccQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
 #EXTINF:-1 tvg-id="mn+.in" tvg-name="" tvg-logo="https://i.ibb.co/d5N5ttd/Max-HD.png" group-title="MOVIES",Sony Max 
@@ -756,10 +748,9 @@ https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34467?token=TURYAhZYEAwSXQIBCVcCBwAHAVMADFEPBQpTBlAJBFQCUwJTBgAFVFVGTxBLF0AGVA9uD1IbCQUFBlQGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RQD1ccQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
 #EXTINF:-1 tvg-id="DiscoveryAsia" group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co/gtxg83n/1280px-Discovery-Asia-logo-svg.png",Discovery Asia
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#http://mu03ye.wanicelife.com:8880/YALM4262/360547880/60376
-https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71072
+#https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="555" group-title="DOCUMENTARY" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png",History
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -783,7 +774,6 @@ https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b1200000.m3u8
 https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #EXTINF:-1 tvg-id="717" group-title="DOCUMENTARY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",BBC Lifestyle 
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
 
@@ -2236,7 +2226,6 @@ http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/261
 
 
 #################INDIA##############################
-
 
 
 
