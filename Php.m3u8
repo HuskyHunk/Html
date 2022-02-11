@@ -10,7 +10,7 @@ https://api.mbed.cc/ytlive.m3u8?id=MiuUEEM9SLs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tx2BRDm/covid-19-4855688-640.png" group-title="WELCOME TO CLOUD7 CHANNEL",C-19 Latest Info Entire World
 https://api.mbed.cc/ytlive.m3u8?id=NMre6IAAAiU
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DonjeJR.png" group-title="WELCOME TO CLOUD7 CHANNEL",- Last Update: 25.01.2022
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DonjeJR.png" group-title="WELCOME TO CLOUD7 CHANNEL",- Last Update: 10.02.2022
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
@@ -50,8 +50,8 @@ https://aqfad.netlify.app/stream/DidikTVKPM.m3u8
 
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
 #EXTVLCOPT:http-referer=https://www.dailymotion.com
-#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
-https://aqfad.netlify.app/stream/8TV.m3u8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+#https://aqfad.netlify.app/stream/8TV.m3u8
 
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9
 #EXTVLCOPT:http-referer=https://www.dailymotion.com
@@ -129,7 +129,8 @@ https://tinyurl.com/2352r5dz
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-https://tinyurl.com/5n6kynjc
+#https://tinyurl.com/5n6kynjc
+http://foctv.xyz:25510/Imrany/BB1732/25
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -171,12 +172,14 @@ https://tinyurl.com/yanj982e
 #EXTINF:-1 tvg-id="AstroAura" tvg-name="Astro Aura HD" tvg-logo="http://tvmalaysia.cc:80/images/0b67d68665c92067221b479621db7952.png" group-title="ENTERTAINMENT",Astrox Aura 
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71145
+#http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71145
+http://foctv.xyz:25510/Imrany/BB1732/28
 
 #EXTINF:-1 tvg-id="AstroRania" tvg-name="Astro Rania HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="ENTERTAINMENT",Astrox Rania 
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71144
+#http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71144
+http://foctv.xyz:25510/Imrany/BB1732/29
 
 #EXTINF:-1 tvg-id="704 group-title="ENTERTAINMENT" tvg-logo="http://mantul.biz.id:8888/images/cfc5d3828fa7578cf21ee5d144107cbc.png",Astrox Primetime
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -268,7 +271,8 @@ https://akamai.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #EXTINF:-1 tvg-id="K-Plus" tvg-name="K-Plus HD" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/q9knZG9/306-3060351-k-plus-k-plus-channel-logo.png",K Plus Drama
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71111
+#http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71111
+http://foctv.xyz:25510/Imrany/BB1732/140
 
 #EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBS World HD" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/1M1Y4L5/resize.png",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
@@ -364,8 +368,6 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/6P4PbWw/Kartu-Telepon-Indosiar.png" group-title="ENTERTAINMENT",INDOSIAR 
 https://cubmu.superzap.xyz:8279/indosiar/playlist.m3u8
-http://nonton.wap.sh/id/002.m3u8
-http://210.210.155.35/session/8fe637d4-fb26-11eb-9071-b82a72d63267/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-id="3003" tvg-logo="https://i.kampung.xyz/c/c0198572b1f2ff83.png" group-title="ENTERTAINMENT",RCTI
 https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
@@ -414,10 +416,10 @@ https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
 http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34474?token=TURYAhZYEAwSXQIBCVcCBwAHAVMADFEPBQpTBlAJBFQCUwJTBgAFVFVGTxBLF0AGVA9uD1IbCQUFBlQGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RQD1ccQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
 #EXTINF:-1 tvg-id="zeecafe.in" tvg-name="" tvg-logo="https://i.ibb.co/p0BZWDQ/496d3a53cc5bbef5dd103ad40a2a6915.png" group-title="ENTERTAINMENT",Star World Premiere
-http://180.178.130.180:8000/play/a03i/index.m3u8
+#http://180.178.130.180:8000/play/a03i/index.m3u8
 
 #EXTINF:-1 tvg-id="zeecafe.in" tvg-name="" tvg-logo="https://i.ibb.co/nCSYfGf/Star-World-2016-logo.png" group-title="ENTERTAINMENT",Star World 
-http://180.178.130.180:8000/play/a03j/index.m3u8
+#http://180.178.130.180:8000/play/a03j/index.m3u8
 
 
 
@@ -611,13 +613,14 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="Utsav Gold" tvg-name="Utsav Gold" tvg-logo="https://i.ibb.co/ngntF9d/Star-Gold-2011.png" group-title="MOVIES",Utsav Gold
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+#http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+http://45.86.190.64:25461/aTQ0PG6Nsm/5RyXBHDXsM/34157?play_token=0xB8l0hzft&token=TURYAhZYEAwSV1BUCVpQWwNaUwJVDgQDBwVSAVFfVwEAU1ZWV1ZTVFNGTxBLF0AGVA9uD1IbCQUFAlMEShsTFlMUbwoBEggUAVBRCgBVBEEZQEUPW1wRDAAFUAVSAVZUD1QcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
 #EXTINF:-1 tvg-id="Utsav Plus" tvg-name="Utsav Plus" tvg-logo="https://i.ibb.co/DG5Q3vk/Star-plus-2016.png" group-title="MOVIES",Utsav Plus
-http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34512?token=TURYAhZYEAwSXQIBCVcCBwAHAVMADFEPBQpTBlAJBFQCUwJTBgAFVFVGTxBLF0AGVA9uD1IbCQUFBlQGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RQD1ccQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+http://45.86.190.64:25461/xQTSjm3NBw/zgAbEszSzg/34214?play_token=2hYSOwxori&token=TURYAhZYEAwSU1BTXlVRWgUACQQHDAMEBVUBDVNbUQECU1MAVAIEBQRGTxBLF0AGVA9uD1IbCQUFAVUBShsTFlMUbwoBEggUAVdVAgFSBUEZQEUPW1wRDAAFUARQCl5QAlYcQRVZVhQKRlACDFoBQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAFsFUhNKFFpcQ19HFkxEA0QseEQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpQAlcGUhMb
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCibH6l.jpg" group-title="MOVIES", Utsav Bharat
-http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34155?token=TURYAhZYEAwSXQIBCVcCBwAHAVMADFEPBQpTBlAJBFQCUwJTBgAFVFVGTxBLF0AGVA9uD1IbCQUFBlQGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RQD1ccQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+http://45.86.190.64:25461/aTQ0PG6Nsm/5RyXBHDXsM/34155?play_token=0xB8l0hzft&token=TURYAhZYEAwSV1BUCVpQWwNaUwJVDgQDBwVSAVFfVwEAU1ZWV1ZTVFNGTxBLF0AGVA9uD1IbCQUFAlMEShsTFlMUbwoBEggUAVBRCgBVBEEZQEUPW1wRDAAFUAVSAVZUD1QcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCibH6l.jpg" group-title="MOVIES", Star Bharat 
 http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34510?token=TURYAhZYEAwSXQIBCVcCBwAHAVMADFEPBQpTBlAJBFQCUwJTBgAFVFVGTxBLF0AGVA9uD1IbCQUFBlQGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RQD1ccQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
@@ -749,8 +752,8 @@ http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34467?token=TURYAhZYEAwSXQIBCVcC
 
 #EXTINF:-1 tvg-id="DiscoveryAsia" group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co/gtxg83n/1280px-Discovery-Asia-logo-svg.png",Discovery Asia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71072
-#https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+#http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71072
+https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="555" group-title="DOCUMENTARY" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png",History
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1170,6 +1173,12 @@ http://goldentv.tech:25461/rachman/rachman/25016
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://foctv.xyz:25510/Imrany/BB1732/413
+
+#EXTINF:-1 tvg-id="" tvg-name="LIVE STREAM 1" tvg-logo="https://nevadafilm.com/directory/wp-content/uploads/sites/2/2017/11/24-7-logo-hi-res-1.jpg" group-title="SPORTS",Live Stream 1
+https://tinyurl.com/378ypywv
+
+#EXTINF:-1 tvg-id="" tvg-name="LIVE STREAM 2" tvg-logo="https://nevadafilm.com/directory/wp-content/uploads/sites/2/2017/11/24-7-logo-hi-res-1.jpg" group-title="SPORTS",Live Stream 2
+https://tinyurl.com/223k4b9t
 
 #EXTINF:-1 tvg-id="818" group-title="SPORTS" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1.png",beIN Sports 1 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2225,10 +2234,91 @@ http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/261
 
 
 
-#################INDIA##############################
+#################CHINA##############################
 
 
-
+#EXTINF:-1,group-title="CHINA",非凡商业
+http://50.7.61.147:30080/Entry/ubnbus 
+#EXTINF:-1,group-title="CHINA",TLC
+http://50.7.61.147:30080/Entry/tlc 
+#EXTINF:-1,group-title="CHINA",JET综合
+http://50.7.61.147:30080/Entry/jet  
+#EXTINF:-1,group-title="CHINA",HBO 
+http://50.7.61.148:30080/Entry/hbo
+#EXTINF:-1,group-title="CHINA",SET三立台湾
+http://50.7.61.148:30080/Entry/settw- 
+#EXTINF:-1,group-title="CHINA",STAR卫视中文
+http://50.7.61.148:30080/Entry/starchinese 
+#EXTINF:-1,group-title="CHINA",AXN
+http://50.7.61.148:30080/Entry/axn
+#EXTINF:-1,group-title="CHINA",亚洲旅游台
+http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+#EXTINF:-1,group-title="CHINA",博斯运动2
+http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8  
+#EXTINF:-1,group-title="CHINA",智林体育台
+http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8 
+#EXTINF:-1,group-title="CHINA",中台湾生活网
+http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8 
+#EXTINF:-1,group-title="CHINA",中台湾生活网
+http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8 
+#EXTINF:-1,group-title="CHINA",中台湾生活网
+http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
+#EXTINF:-1,group-title="CHINA",中台湾生活网
+http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+#EXTINF:-1,group-title="CHINA",MAVlife
+http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8 
+#EXTINF:-1,group-title="CHINA",momo综合台
+http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8 
+#EXTINF:-1,group-title="CHINA",NHK
+http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8 
+#EXTINF:-1,group-title="CHINA",FRANCE
+http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8 
+#EXTINF:-1,group-title="CHINA",TV5monde
+http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
+#EXTINF:-1,group-title="CHINA",台视新闻
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1,group-title="CHINA",中天新闻 
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1,group-title="CHINA",东森新闻
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1,group-title="CHINA",东森财经新闻 
+http://seb.sason.top/sc/dscjxw_fhd.m3u8 
+#EXTINF:-1,group-title="CHINA",三立iNews
+http://seb.sason.top/sc/slinews_fhd.m3u8 
+#EXTINF:-1,group-title="CHINA",好消息
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1,group-title="CHINA",CCTV 1
+http://39.135.34.132:8080/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="CHINA",CCTV 2
+http://39.135.34.132:8080/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="CHINA",CCTV 3
+http://39.135.34.132:8080/000000001000/1000000001000011218/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="CHINA",CCTV 4
+http://39.135.34.132:8080/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="CHINA",CCTV 5
+http://39.135.34.132:8080/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="CHINA",CCTV 6
+http://39.135.34.132:8080/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="CHINA",CCTV 7
+http://39.135.34.132:8080/000000001000/7050628689018054317/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="CHINA",CCTV 8
+http://39.135.34.132:8080/000000001000/1000000001000003736/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="CHINA",CCTV 9
+http://39.135.34.132:8080/000000001000/1000000001000028286/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="CHINA",CCTV 10
+http://39.135.34.132:8080/000000001000/7019587760656900133/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="CHINA",CCTV 11
+http://39.135.34.132:8080/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="CHINA",CCTV 12
+http://39.135.34.132:8080/000000001000/1000000001000001640/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="CHINA",CCTV 13
+http://39.135.34.132:8080/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="CHINA",CCTV 14
+http://39.135.34.132:8080/000000001000/8203666801302077036/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="CHINA",CCTV 15
+http://39.135.34.132:8080/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive
+#EXTINF:-1,group-title="CHINA",CCTV 17
+http://39.135.34.132:8080/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive
 
 
 
