@@ -79,8 +79,8 @@ http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 #EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png" group-title="ENTERTAINMENT", Awesome TV
 #EXTVLCOPT:http-referrer=http://www.astro.com.my 
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-https://live.astradamy.com/awesometv/index.m3u8
-#http://foctv.xyz:25510/Imrany/BB1732/387
+#https://live.astradamy.com/awesometv/index.m3u8
+http://foctv.xyz:25510/Imrany/BB1732/387
 
 #EXTINF:-1 tvg-id="TVS" tvg-name="TVS" group-title="ENTERTAINMENT" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",TV Sarawak
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -95,19 +95,19 @@ https://tinyurl.com/2p8e9pfc
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ENTERTAINMENT",Astrox Ria ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-https://tinyurl.com/4ufknwmc
+http://mue03.wanicelife.com:8880/SFL143232/VAGTJACGJ/1705
 
 #EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Astrox Prima
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:network-caching=333
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-#https://tinyurl.com/2p8vfxhy
 http://foctv.xyz:25510/Imrany/BB1732/21
+#https://tinyurl.com/2p8vfxhy
 
 #EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Astrox Prima ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-https://tinyurl.com/2br453m2
+http://mue03.wanicelife.com:8880/SFL143232/VAGTJACGJ/71020
 
 #EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro Oasis HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png",Astrox Oasis
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -118,7 +118,7 @@ https://tinyurl.com/ypk9hccx
 #EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro Oasis HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png",Astrox Oasis ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-https://tinyurl.com/y68z7a6y
+http://mue03.wanicelife.com:8880/SFL143232/VAGTJACGJ/1701
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -129,32 +129,31 @@ https://tinyurl.com/2352r5dz
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-#https://tinyurl.com/5n6kynjc
-http://foctv.xyz:25510/Imrany/BB1732/25
+http://mue03.wanicelife.com:8880/SFL143232/VAGTJACGJ/1706
+#http://foctv.xyz:25510/Imrany/BB1732/25
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:network-caching=333
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-#https://tinyurl.com/3znr6zkb
-http://foctv.xyz:25510/Imrany/BB1732/27
+https://tinyurl.com/3znr6zkb
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-https://tinyurl.com/3treu8pp
+http://foctv.xyz:25510/Imrany/BB1732/27
 
 #EXTINF:-1 tvg-id="BOO" tvg-name="BOO HD" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/2K2mTxK/404-300.png",Astrox BOO
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:network-caching=333
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
 https://tinyurl.com/5n7b3yhu
-#http://foctv.xyz:25510/Imrany/BB1732/248
 
 #EXTINF:-1 tvg-id="BOO" tvg-name="BOO HD" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/2K2mTxK/404-300.png",Astrox BOO ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-https://tinyurl.com/mt2duy39
+http://mue03.wanicelife.com:8880/SFL143232/VAGTJACGJ/1697
+#http://foctv.xyz:25510/Imrany/BB1732/248
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro first" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/FsL6Ctw/Astro-First-2012-logo.png",Astrox First
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -164,7 +163,7 @@ https://tinyurl.com/mt2duy39
 #EXTINF:-1 tvg-id="Naura" tvg-name="Naura HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Astrox Naura
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-https://tinyurl.com/yanj982e
+#https://tinyurl.com/yanj982e
 
 #EXTINF:-1 tvg-id="hello.my" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Astrox Hello
 #http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRwJPVK6GqY6YQzyiIEa2d0k/m3u8
@@ -286,11 +285,11 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 tvg-id="OhK" tvg-name="Oh!K HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="ENTERTAINMENT",OH!K
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71054
+http://mue03.wanicelife.com:8880/SFL143232/VAGTJACGJ/71054
 
 #EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI HD" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/yd2K5zr/1600px-IQiyi-logo.png",QIYI
 #EXTVLCOPT:http-referrer=http://www.astro.com.my 
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71038
+http://mue03.wanicelife.com:8880/SFL143232/VAGTJACGJ/71038
 #http://foctv.xyz:25510/Imrany/BB1732/48
 
 #EXTINF:-1 tvg-id="wakuwakujapan.id" group-title="ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/813_1920x1080_HTV.png",WakuWaku Japan 
@@ -752,8 +751,8 @@ http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34467?token=TURYAhZYEAwSXQIBCVcC
 
 #EXTINF:-1 tvg-id="DiscoveryAsia" group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co/gtxg83n/1280px-Discovery-Asia-logo-svg.png",Discovery Asia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71072
-https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+http://mue03.wanicelife.com:8880/SFL143232/VAGTJACGJ/71072
+#https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="555" group-title="DOCUMENTARY" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png",History
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -872,12 +871,12 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/
 #EXTINF:-1 tvg-id="611" group-title="FAMILY_KIDS" tvg-logo="https://i.ibb.co/MkNwyrd/Astro-Ceria-HD.png",Astrox Ceria 
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:network-caching=333
-https://raw.githubusercontent.com/karlfazreen/mylisting/main/xtroceria.m3u8
+https://tinyurl.com/hbxmdy5j
 
 #EXTINF:-1 tvg-id="611" group-title="FAMILY_KIDS" tvg-logo="https://i.ibb.co/MkNwyrd/Astro-Ceria-HD.png",Astrox Ceria ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-https://tinyurl.com/2c5e92de
+http://mue03.wanicelife.com:8880/SFL143232/VAGTJACGJ/71080
 
 #EXTINF:-1 tvg-id="612" tvg-name="TA-DAA !" tvg-logo="http://odwp.xyz/slogo/tada.png" group-title="FAMILY_KIDS",Astrox TA-DAA !
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -887,7 +886,6 @@ http://iptv12k.com:35461/167121748/976890/744
 #EXTINF:-1 tvg-id="612" tvg-name="TA-DAA !" tvg-logo="http://odwp.xyz/slogo/tada.png" group-title="FAMILY_KIDS",Astrox TA-DAA ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Oddbods" tvg-logo="https://i.ibb.co/HKDr4HM/Oddbods-logo.png" group-title="FAMILY_KIDS",Oddbods
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -1109,7 +1107,7 @@ http://foctv.xyz:25510/Imrany/BB1732/147
 #EXTINF:-1 tvg-id="801" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",Astrox Arena ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#https://tinyurl.com/ms4kshyf
+http://mue03.wanicelife.com:8880/SFL143232/VAGTJACGJ/71102
 
 #EXTINF:-1 tvg-id="802" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",Astrox Arena 2
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -1129,7 +1127,7 @@ http://goldentv.tech:25461/rachman/rachman/25010
 #EXTINF:-1 tvg-id="811" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://tinyurl.com/2datt9w6
+http://mue03.wanicelife.com:8880/SFL143232/VAGTJACGJ/59220
 
 #EXTINF:-1 tvg-id="812" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -1140,7 +1138,7 @@ http://goldentv.tech:25461/rachman/rachman/25011
 #EXTINF:-1 tvg-id="812" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://tinyurl.com/2p9cy8j5
+http://mue03.wanicelife.com:8880/SFL143232/VAGTJACGJ/59219
 
 #EXTINF:-1 tvg-id="813" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -1151,7 +1149,7 @@ http://goldentv.tech:25461/rachman/rachman/25012
 #EXTINF:-1 tvg-id="813" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://tinyurl.com/ywwps2ju
+http://mue03.wanicelife.com:8880/SFL143232/VAGTJACGJ/59218
 
 #EXTINF:-1 tvg-id="814" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -1162,7 +1160,7 @@ http://goldentv.tech:25461/rachman/rachman/25015
 #EXTINF:-1 tvg-id="814" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://tinyurl.com/3h6fj2d3
+http://mue03.wanicelife.com:8880/SFL143232/VAGTJACGJ/59217
 
 #EXTINF:-1 tvg-id="815" group-title="SPORTS" tvg-logo="https://i.ibb.co/3St4vz3/astro-supersport-5-logo-2021-flat-version-by-officiallogotv-deqhz5n-fullview.jpg",Astrox SuperSport 5
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -2237,87 +2235,87 @@ http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/261
 #################CHINA##############################
 
 
-#EXTINF:-1,group-title="CHINA",非凡商业
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",非凡商业
 http://50.7.61.147:30080/Entry/ubnbus 
-#EXTINF:-1,group-title="CHINA",TLC
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",TLC
 http://50.7.61.147:30080/Entry/tlc 
-#EXTINF:-1,group-title="CHINA",JET综合
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",JET综合
 http://50.7.61.147:30080/Entry/jet  
-#EXTINF:-1,group-title="CHINA",HBO 
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",HBO 
 http://50.7.61.148:30080/Entry/hbo
-#EXTINF:-1,group-title="CHINA",SET三立台湾
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",SET三立台湾
 http://50.7.61.148:30080/Entry/settw- 
-#EXTINF:-1,group-title="CHINA",STAR卫视中文
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",STAR卫视中文
 http://50.7.61.148:30080/Entry/starchinese 
-#EXTINF:-1,group-title="CHINA",AXN
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA"",AXN
 http://50.7.61.148:30080/Entry/axn
-#EXTINF:-1,group-title="CHINA",亚洲旅游台
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",亚洲旅游台
 http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
-#EXTINF:-1,group-title="CHINA",博斯运动2
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA"",博斯运动2
 http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8  
-#EXTINF:-1,group-title="CHINA",智林体育台
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA"",智林体育台
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8 
-#EXTINF:-1,group-title="CHINA",中台湾生活网
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",中台湾生活网
 http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8 
-#EXTINF:-1,group-title="CHINA",中台湾生活网
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",中台湾生活网
 http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8 
-#EXTINF:-1,group-title="CHINA",中台湾生活网
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",中台湾生活网
 http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
-#EXTINF:-1,group-title="CHINA",中台湾生活网
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",中台湾生活网
 http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-#EXTINF:-1,group-title="CHINA",MAVlife
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",MAVlife
 http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8 
-#EXTINF:-1,group-title="CHINA",momo综合台
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",momo综合台
 http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8 
-#EXTINF:-1,group-title="CHINA",NHK
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",NHK
 http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8 
-#EXTINF:-1,group-title="CHINA",FRANCE
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",FRANCE
 http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8 
-#EXTINF:-1,group-title="CHINA",TV5monde
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",TV5monde
 http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
-#EXTINF:-1,group-title="CHINA",台视新闻
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",台视新闻
 http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1,group-title="CHINA",中天新闻 
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA"",中天新闻 
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1,group-title="CHINA",东森新闻
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",东森新闻
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1,group-title="CHINA",东森财经新闻 
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",东森财经新闻 
 http://seb.sason.top/sc/dscjxw_fhd.m3u8 
-#EXTINF:-1,group-title="CHINA",三立iNews
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",三立iNews
 http://seb.sason.top/sc/slinews_fhd.m3u8 
-#EXTINF:-1,group-title="CHINA",好消息
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",好消息
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-#EXTINF:-1,group-title="CHINA",CCTV 1
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",CCTV 1
 http://39.135.34.132:8080/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="CHINA",CCTV 2
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",CCTV 2
 http://39.135.34.132:8080/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive
 #EXTINF:-1,group-title="CHINA",CCTV 3
 http://39.135.34.132:8080/000000001000/1000000001000011218/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="CHINA",CCTV 4
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",CCTV 4
 http://39.135.34.132:8080/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="CHINA",CCTV 5
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",CCTV 5
 http://39.135.34.132:8080/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="CHINA",CCTV 6
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",CCTV 6
 http://39.135.34.132:8080/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="CHINA",CCTV 7
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",CCTV 7
 http://39.135.34.132:8080/000000001000/7050628689018054317/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="CHINA",CCTV 8
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",CCTV 8
 http://39.135.34.132:8080/000000001000/1000000001000003736/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="CHINA",CCTV 9
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",CCTV 9
 http://39.135.34.132:8080/000000001000/1000000001000028286/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="CHINA",CCTV 10
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",CCTV 10
 http://39.135.34.132:8080/000000001000/7019587760656900133/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="CHINA",CCTV 11
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",CCTV 11
 http://39.135.34.132:8080/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="CHINA",CCTV 12
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",CCTV 12
 http://39.135.34.132:8080/000000001000/1000000001000001640/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="CHINA",CCTV 13
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",CCTV 13
 http://39.135.34.132:8080/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="CHINA",CCTV 14
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",CCTV 14
 http://39.135.34.132:8080/000000001000/8203666801302077036/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="CHINA",CCTV 15
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",CCTV 15
 http://39.135.34.132:8080/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive
-#EXTINF:-1,group-title="CHINA",CCTV 17
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",CCTV 17
 http://39.135.34.132:8080/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive
 
 
