@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml" url-tvg="https://weareblahs.github.io/epg/compressed/astro.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 
 
@@ -90,7 +90,7 @@ https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS.m3u8
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:network-caching=333
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-https://tinyurl.com/2p8e9pfc
+https://tinyurl.com/2p94fcn6
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ENTERTAINMENT",Astrox Ria ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -101,8 +101,7 @@ http://mue03.wanicelife.com:8880/SFL143232/VAGTJACGJ/1705
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:network-caching=333
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://foctv.xyz:25510/Imrany/BB1732/21
-#https://tinyurl.com/2p8vfxhy
+https://tinyurl.com/mu74knwk
 
 #EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Astrox Prima ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -113,7 +112,7 @@ http://mue03.wanicelife.com:8880/SFL143232/VAGTJACGJ/71020
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:network-caching=333
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-https://tinyurl.com/ypk9hccx
+https://tinyurl.com/2r8sj43a
 
 #EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro Oasis HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png",Astrox Oasis ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -124,7 +123,7 @@ http://mue03.wanicelife.com:8880/SFL143232/VAGTJACGJ/1701
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:network-caching=333
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-https://tinyurl.com/2352r5dz
+https://tinyurl.com/2p8xv5aa
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -136,7 +135,7 @@ http://mue03.wanicelife.com:8880/SFL143232/VAGTJACGJ/1706
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:network-caching=333
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-https://tinyurl.com/3znr6zkb
+https://tinyurl.com/5dtard3b
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -147,7 +146,7 @@ http://foctv.xyz:25510/Imrany/BB1732/27
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:network-caching=333
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-https://tinyurl.com/5n7b3yhu
+https://tinyurl.com/5a9srars
 
 #EXTINF:-1 tvg-id="BOO" tvg-name="BOO HD" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/2K2mTxK/404-300.png",Astrox BOO ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -871,7 +870,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/
 #EXTINF:-1 tvg-id="611" group-title="FAMILY_KIDS" tvg-logo="https://i.ibb.co/MkNwyrd/Astro-Ceria-HD.png",Astrox Ceria 
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 #EXTVLCOPT:network-caching=333
-https://tinyurl.com/hbxmdy5j
+https://tinyurl.com/msjfymr2
 
 #EXTINF:-1 tvg-id="611" group-title="FAMILY_KIDS" tvg-logo="https://i.ibb.co/MkNwyrd/Astro-Ceria-HD.png",Astrox Ceria ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -1830,33 +1829,6 @@ http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/261
 #################CHINA##############################
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",非凡商业
-EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://50.7.61.147:30080/Entry/ubnbus 
-
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",TLC
-EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://50.7.61.147:30080/Entry/tlc 
-
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",JET综合
-EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://50.7.61.147:30080/Entry/jet  
-
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",HBO 
-EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://50.7.61.148:30080/Entry/hbo
-
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",SET三立台湾
-EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://50.7.61.148:30080/Entry/settw- 
-
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",STAR卫视中文
-EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://50.7.61.148:30080/Entry/starchinese 
-
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA"",AXN
-EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-http://50.7.61.148:30080/Entry/axn
 
 #EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="" group-title="CHINA",亚洲旅游台
 http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
@@ -1932,45 +1904,45 @@ http://39.135.34.132:8080/000000001000/1000000005000056836/1.m3u8?channel-id=yst
 
 
 
-#EXTINF:-1 tvg-id=1 tvg-name= tvg-logo= group-title="DouyuTV",【特辑】精彩大片，欢迎品鉴 
+#EXTINF:-1 tvg-id=1 tvg-name= tvg-logo= group-title="CHINA",【特辑】精彩大片，欢迎品鉴 
 http://tx2play1.douyucdn.cn/live/3637778raLSXdOdu.xs?uuid=
-#EXTINF:-1 tvg-id=6 tvg-name= tvg-logo= group-title="DouyuTV",✨神乐✨华语 经典 电影 沈腾 周星驰 
+#EXTINF:-1 tvg-id=6 tvg-name= tvg-logo= group-title="CHINA",✨神乐✨华语 经典 电影 沈腾 周星驰 
 http://tx2play1.douyucdn.cn/live/85894rmovieChow.xs?uuid=
-#EXTINF:-1 tvg-id=9 tvg-name= tvg-logo= group-title="DouyuTV",【女神金】60帧 极致蓝光 刀刀陪看 
+#EXTINF:-1 tvg-id=9 tvg-name= tvg-logo= group-title="CHINA",【女神金】60帧 极致蓝光 刀刀陪看 
 http://tx2play1.douyucdn.cn/live/747764rr7m3QcnAb.xs?uuid=
-#EXTINF:-1 tvg-id=10 tvg-name= tvg-logo= group-title="DouyuTV",【片片】片荒的时候看片片 
+#EXTINF:-1 tvg-id=10 tvg-name= tvg-logo= group-title="CHINA",【片片】片荒的时候看片片 
 http://tx2play1.douyucdn.cn/live/4258555r3isvDdlq.xs?uuid=
 #EXTINF:-1 tvg-id=12 tvg-name= tvg-logo= group-title="DouyuTV",【RM-点播】点播！模式-24H欢乐不断 
 http://tx2play1.douyucdn.cn/live/131977rb5GOrl6uS.xs?uuid=
-#EXTINF:-1 tvg-id=15 tvg-name= tvg-logo= group-title="DouyuTV",【香港赌片】喜剧、黑帮、动作、武侠、经典 
+#EXTINF:-1 tvg-id=15 tvg-name= tvg-logo= group-title="CHINA",【香港赌片】喜剧、黑帮、动作、武侠、经典 
 http://tx2play1.douyucdn.cn/live/315457rGxEJOfxKX.xs?uuid=
-#EXTINF:-1 tvg-id=16 tvg-name= tvg-logo= group-title="DouyuTV",范闲4K超清、下饭神剧
+#EXTINF:-1 tvg-id=16 tvg-name= tvg-logo= group-title="CHINA",范闲4K超清、下饭神剧
 http://tx2play1.douyucdn.cn/live/9633542rbLimoelF.xs?uuid=
-#EXTINF:-1 tvg-id=19 tvg-name= tvg-logo= group-title="DouyuTV",❤️怡寳❤️  国民女友陪看 
+#EXTINF:-1 tvg-id=19 tvg-name= tvg-logo= group-title="CHINA",❤️怡寳❤️  国民女友陪看 
 http://tx2play1.douyucdn.cn/live/434971r3ZA8dMt4g.xs?uuid=
-#EXTINF:-1 tvg-id=30 tvg-name= tvg-logo= group-title="DouyuTV",「橙幕」「最人气港剧直播间」 
+#EXTINF:-1 tvg-id=30 tvg-name= tvg-logo= group-title="CHINA",「橙幕」「最人气港剧直播间」 
 http://tx2play1.douyucdn.cn/live/4549169rv4OKGN7X.xs?uuid=
-#EXTINF:-1 tvg-id=32 tvg-name= tvg-logo= group-title="DouyuTV",【周末】速进！新片放映中！
+#EXTINF:-1 tvg-id=32 tvg-name= tvg-logo= group-title="CHINA",【周末】速进！新片放映中！
 http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF.xs?uuid=
-#EXTINF:-1 tvg-id=34 tvg-name= tvg-logo= group-title="DouyuTV",【恐怖影厅】胆小勿入 
+#EXTINF:-1 tvg-id=34 tvg-name= tvg-logo= group-title="CHINA",【恐怖影厅】胆小勿入 
 http://tx2play1.douyucdn.cn/live/3637726rQLDdfto7.xs?uuid=
-#EXTINF:-1 tvg-id=38 tvg-name= tvg-logo= group-title="DouyuTV",【贝贝】军旅 喜剧 动作 意大利炮 
+#EXTINF:-1 tvg-id=38 tvg-name= tvg-logo= group-title="CHINA",【贝贝】军旅 喜剧 动作 意大利炮 
 http://tx2play1.douyucdn.cn/live/431460rLgfswXoER.xs?uuid=
-#EXTINF:-1 tvg-id=46 tvg-name= tvg-logo= group-title="DouyuTV",✨周星驰✨星爷 华语 经典 电影 神乐 
+#EXTINF:-1 tvg-id=46 tvg-name= tvg-logo= group-title="CHINA",✨周星驰✨星爷 华语 经典 电影 神乐 
 http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.xs?uuid=
-#EXTINF:-1 tvg-id=59 tvg-name= tvg-logo= group-title="DouyuTV",✨丸子✨经典国产大片，24小时看不停
+#EXTINF:-1 tvg-id=59 tvg-name= tvg-logo= group-title="CHINA",✨丸子✨经典国产大片，24小时看不停
 http://tx2play1.douyucdn.cn/live/8986148ruX1Bn8o2.xs?uuid=
-#EXTINF:-1 tvg-id=78 tvg-name= tvg-logo= group-title="DouyuTV",[兔兔陪看]爱笑的撸猫主播
+#EXTINF:-1 tvg-id=78 tvg-name= tvg-logo= group-title="CHINA",[兔兔陪看]爱笑的撸猫主播
 http://tx2play1.douyucdn.cn/live/1504768rsnZud2Gv.xs?uuid=
-#EXTINF:-1 tvg-id=80 tvg-name= tvg-logo= group-title="DouyuTV",❤️可乐❤️电影 欧美 科幻 经典
+#EXTINF:-1 tvg-id=80 tvg-name= tvg-logo= group-title="CHINA",❤️可乐❤️电影 欧美 科幻 经典
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.xs?uuid=
-#EXTINF:-1 tvg-id=89 tvg-name= tvg-logo= group-title="DouyuTV",【小宇60帧】科幻 动作 喜剧 电影 
+#EXTINF:-1 tvg-id=89 tvg-name= tvg-logo= group-title="CHINA",【小宇60帧】科幻 动作 喜剧 电影 
 http://tx2play1.douyucdn.cn/live/323876rVG9fNP17E.xs?uuid=
-#EXTINF:-1 tvg-id=98 tvg-name= tvg-logo= group-title="DouyuTV",❤️奶虫❤️恐怖 丧尸 鬼片 灾难科幻 
+#EXTINF:-1 tvg-id=98 tvg-name= tvg-logo= group-title="CHINA",❤️奶虫❤️恐怖 丧尸 鬼片 灾难科幻 
 http://tx2play1.douyucdn.cn/live/263824rY7r7Ykt7m.xs?uuid=
-#EXTINF:-1 tvg-id=102 tvg-name= tvg-logo= group-title="DouyuTV",【小鸽陪看】华语热门影视剧 
+#EXTINF:-1 tvg-id=102 tvg-name= tvg-logo= group-title="CHINA",【小鸽陪看】华语热门影视剧 
 http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG.xs?uuid=
-#EXTINF:-1 tvg-id=102 tvg-name= tvg-logo= group-title="DouyuTV",【小鸽陪看】华语热门影视剧 
+#EXTINF:-1 tvg-id=102 tvg-name= tvg-logo= group-title="CHINA",【小鸽陪看】华语热门影视剧 
 http://tx2play1.douyucdn.cn/live/3439096ry0WJOkug.xs?uuid
 #EXTINF:-1 tvg-id=115 tvg-name= tvg-logo= group-title="DouyuTV",❤️冰冰❤️恐怖/经典/搞笑陪你一起
 http://tx2play1.douyucdn.cn/live/74374rxBWPJfW7Gd.xs?uuid=
